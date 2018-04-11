@@ -8,6 +8,7 @@ module.exports = {
       }
     },
     'gatsby-transformer-json',
+    resolve
     `gatsby-transformer-remark`
   ]
 }
